@@ -1,0 +1,2 @@
+# repository
+Joke rating AI
